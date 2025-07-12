@@ -8,13 +8,9 @@ include_in_header: false
 July 12 2025
 
 # Privacy Policy
-This Privacy Policy describes how Sismik ("we," "us," or "our") uses your personal information when you use our mobile application (the "Service").
+This Privacy Policy explains how Sismik ("we", "us", or "our") handles your information when you use our mobile application (the “Service”).
 
-We are committed to protecting your personal information and your right to privacy. When you visit our mobile application and use our products, you trust us with your personal information. We take your privacy very seriously. In this Privacy Policy, we seek to explain to you in the clearest way possible what information we use.
-
-This Privacy Policy applies to all used information through our mobile application, as well as any related services, sales, marketing, or events.
-
-Please read this Privacy Policy carefully as it will help you understand what we do with the information we use.
+We respect your privacy and are committed to protecting it. This Privacy Policy describes the types of data we may access, how we use it, and your choices.
 
 <br>
 
@@ -28,15 +24,29 @@ To help explain things as clearly as possible in this Privacy Policy, every time
 <br>
 
 ## 2 - Information We Use
-We may use information about your location if you give us permission to do so ("Location Data"). We use this data to provide features of our Service, to improve and customize our Service. However this information is not collected or stored.
+### 2.1 - Location Data
+With your permission, we access your device’s location to provide location-based features (e.g., showing nearby earthquake activity). This information is used only temporarily on your device to deliver functionality and is not collected, stored, or shared with us or third parties.
 
-You can enable or disable location services when you use our Service at any time, through your device settings.
+You can enable or disable location access at any time through your device settings.
 
 <br>
 
-## 3 - How We Use Your Information
-Sismik uses your information for various purposes to provide and maintain its Service such as:
-- To work and present you with relevant information (earthquakes near you).
+## 3 - Data Sharing
+We do not share, sell, or transmit your personal information or location data to third parties.
 
-## 4 - Changes to Privacy Policy
-Sismik reserves the right to modify this Privacy Policy at any time and with no prior warning.
+<br>
+
+## 4 - Data Storage
+We do not collect or store any personal data, including your location data. All data access is temporary and remains on your device.
+
+<br>
+
+## 5 - Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be reflected within the app or on our website. Continued use of the Service after changes are made constitutes your acceptance of the revised policy.
+
+<br>
+
+## 6 - Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+
+Email: [sismikcontact@gmail.com]
